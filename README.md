@@ -1,0 +1,1 @@
+# discordRPC_hwstats
